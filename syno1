@@ -1,0 +1,8 @@
+{ "shiyam.CV.load::syno1" : { 
+                                "target" : { 
+                                             "schema": "SYSTEM",
+                                                "object": "INT"
+                                             },
+                                 "schema": "SYSTEM"
+                              }
+}
